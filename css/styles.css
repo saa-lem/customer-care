@@ -80,14 +80,14 @@ a:hover {
 }
 
 #log1 {
-  border-radius: 50%;
+  border-radius:20%;
 }
 
 #state {
   font-weight: bolder;
   font-style: italic;
   font-family: cursive;
-  text-shadow: 0 0 10px #CB4335;
+  text-shadow: 0 0 20px #CB4335;
 }
 
 .branch,
