@@ -80,20 +80,20 @@ a:hover {
 }
 
 #log1 {
-  border-radius:20%;
+  border-radius:10%;
 }
 
 #state {
   font-weight: bolder;
   font-style: italic;
   font-family: cursive;
-  text-shadow: 0 0 20px black;
+  text-shadow: 0 0 10px black;
 }
 
 .branch,
 .histo,
 .award {
-  text-shadow: 0 0 2px greenyellow;
+  text-shadow: 0 0 2px brown;
   text-align: center;
   padding-top: 30px;
   padding-bottom: 50px;
