@@ -1,5 +1,5 @@
 body {
-  color:grey;
+  color:black;
 }
 
 .container {
@@ -71,7 +71,7 @@ li>a {
 
 a:hover {
   box-shadow: 0 0 10px black;
-  color:orangered;
+  color:brown;
   text-decoration: none;
 }
 
