@@ -1,5 +1,5 @@
 body {
-  color: white;
+  color:grey;
 }
 
 .container {
@@ -8,7 +8,7 @@ body {
   bottom: 0 !important;
   right: 0 !important;
   left: 0 !important;
-  background-color: black !important;
+  background-color: blueviolet !important;
   background-size: cover !important;
   background-repeat: no-repeat !important;
   width: 100%;
@@ -21,7 +21,7 @@ body {
   bottom: 0;
   right: 0;
   left: 0;
-  background-color: rgba(0, 0, 0, 0.5);
+  background-color: rgba(189, 22, 22, 0.801);
   overflow: auto;
   width: 100%;
   height: 100%
@@ -41,8 +41,8 @@ h1 {
   font-style: italic;
   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif !important;
   padding-top: 10px;
-  color: #D6DBDF;
-  text-shadow: 0 0 10px #CB4335;
+  color:brown;
+  text-shadow: 0 0 10px black;
 }
 
 .greatnav {
@@ -65,13 +65,13 @@ li>a {
   margin: 0;
   display: block;
   text-transform: uppercase;
-  color: #D0D3D4;
-  text-shadow: 0 0 10px #CB4335;
+  color:blue;
+  text-shadow: 0 0 10px black;
 }
 
 a:hover {
-  box-shadow: 0 0 10px #E74C3C;
-  color: #E6B0AA;
+  box-shadow: 0 0 10px black;
+  color:orangered;
   text-decoration: none;
 }
 
@@ -87,13 +87,13 @@ a:hover {
   font-weight: bolder;
   font-style: italic;
   font-family: cursive;
-  text-shadow: 0 0 20px #CB4335;
+  text-shadow: 0 0 20px black;
 }
 
 .branch,
 .histo,
 .award {
-  text-shadow: 0 0 2px #BDC3C7;
+  text-shadow: 0 0 2px greenyellow;
   text-align: center;
   padding-top: 30px;
   padding-bottom: 50px;
@@ -115,7 +115,7 @@ a:hover {
 #pic2,
 #pic3 {
   border: hidden;
-  box-shadow: 0 0 10px #DC7633;
+  box-shadow: 0 0 10px black;
 }
 
 footer {
@@ -144,7 +144,7 @@ form {
 }
 
 button {
-  color: whitesmoke !important;
+  color: grey !important;
 }
 
 .jaza {
@@ -162,14 +162,14 @@ button {
 #piz5,
 #piz6 {
   border-radius: 50%;
-  box-shadow: 0 0 10px #DC7633;
+  box-shadow: 0 0 10px black;
 }
 
 .clap {
   background-image: url("//css/images/chef-black-uniform-sprinkles-white-wheat-flour-table_116441-299.jpg?size=626&ext=jpg");
   background-size: cover;
   background-repeat: no-repeat;
-  background-color: rgba(0, 0, 0, 0.5);
+  background-color:blueviolet;
   padding-bottom: 250px;
   padding-left: 50px;
 }
@@ -178,7 +178,7 @@ button {
   text-align: center;
   padding-bottom: 50px;
   padding-top: 50px;
-  text-shadow: 0 0 2px #BDC3C7;
+  text-shadow: 0 0 2px rgba(17, 22, 97, 0.753);
 }
 
 #par1,
@@ -189,7 +189,7 @@ button {
 #par6 {
   padding-top: 25px;
   font-style: italic;
-  color: #D98880;
+  color: black;
 }
 
 #pic1:hover,
@@ -218,7 +218,7 @@ button {
   padding-top: 50px;
   display: none;
   font-style: italic;
-  color: #F7DC6F;
+  color:black;
 }
 
 .choice {
@@ -226,7 +226,7 @@ button {
 }
 
 .deliver {
-  background-image: url("//css/images/9.jpgs");
+  background-image: url("//css/images/9.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   background-color: rgba(0, 0, 0, 0.5);
@@ -235,13 +235,13 @@ button {
 }
 
 #order1 {
-  background-color: #EC7063 !important;
-  box-shadow: 0 0 10px #DC7633;
+  background-color: black !important;
+  box-shadow: 0 0 10px black;
 }
 
 #order2 {
-  background-color: #EC7063 !important;
-  box-shadow: 0 0 10px #DC7633;
+  background-color: purple !important;
+  box-shadow: 0 0 10px black;
 }
 
 .order2 {
@@ -249,13 +249,13 @@ button {
 }
 
 select {
-  box-shadow: 0 0 10px #DC7633;
+  box-shadow: 0 0 10px black;
 }
 
 .over {
   border: 1px solid black;
   padding: 20px 20px 20px 20px;
-  box-shadow: 0 0 15px #DC7633;
+  box-shadow: 0 0 15px blueviolet;
 }
 
 h3 {
